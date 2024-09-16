@@ -1,8 +1,7 @@
 [project]
 name = "issue-prefix-pre-commit"
-authors = []
 description = "adds issue number as a prefix to commit message"
 version = "0.1.0"
 
 [project.scripts]
-foo = "hooks.add_issue_prefix:main"
+add-issue-prefix = "hooks.add_issue_prefix:main"
