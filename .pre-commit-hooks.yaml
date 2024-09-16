@@ -1,4 +1,4 @@
-- id: foo
+- id: add-issue-prefix
   name: Issue number as a commit message prefix
   description: Adds the task number as a prefix from the branch name to the commit message
   entry: add_issue_prefix
